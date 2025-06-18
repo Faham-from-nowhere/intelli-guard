@@ -5,7 +5,7 @@ requests==2.31.0
 python-dotenv==1.0.1
 
 
-torch==2.2.2+cpu
+torch==2.2.2
 transformers==4.38.2
 huggingface_hub==0.21.4
 sentence-transformers==2.5.1
